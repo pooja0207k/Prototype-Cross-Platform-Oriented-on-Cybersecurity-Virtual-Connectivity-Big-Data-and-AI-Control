@@ -130,7 +130,7 @@ The following performance metrics were evaluated for each model:
 1. Clone the repository:
     ```bash
     git clone https://github.com/pooja0207k/AI-Based-Intrusion-Detection.git
-  cd AI-Based-Intrusion-Detection
+    cd AI-Based-Intrusion-Detection
 
     ```
 
