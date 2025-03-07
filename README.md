@@ -129,8 +129,9 @@ The following performance metrics were evaluated for each model:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/intrusion-detection.git
-    cd intrusion-detection
+    git clone https://github.com/pooja0207k/AI-Based-Intrusion-Detection.git
+  cd AI-Based-Intrusion-Detection
+
     ```
 
 2. Install the required dependencies:
@@ -138,9 +139,9 @@ The following performance metrics were evaluated for each model:
     pip install -r requirements.txt
     ```
 
-3. Run the main script to train the models and evaluate their performance:
+3. Open the Jupyter Notebook:
     ```bash
-    python main.py
+    jupyter notebook
     ```
 
 4. The results will be printed, showing the accuracy and classification report for each model.
